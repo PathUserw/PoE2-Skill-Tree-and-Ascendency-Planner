@@ -16,6 +16,5 @@ You can use this application for free at [complex-tree.vercel.app](https://compl
 2. Start planning your skill tree by selecting nodes and ascendencies.
 3. Save your build to revisit and tweak later.
 
-## License
-This project is licensed under the MIT License.
-
+## Base
+https://github.com/andrej2431/poe-2-skill-tree-planner
